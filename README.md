@@ -1,6 +1,4 @@
-# Detection and Tracking of Dynamic Ocean Carbon Uptake Regimes Built upon Spatial Target-Driver Relationships via Adaptive Hierarchical Clustering ![image](https://github.com/swemoh/Detecting-and-tracking-Ocean-Carbon-Regimes/assets/33155955/3cb30ac7-7769-4405-87c6-b1897c2ffa38)
-
-
+# Detection and Tracking of Dynamic Ocean Carbon Uptake Regimes Built upon Spatial Target-Driver Relationships via Adaptive Hierarchical Clustering 
 ## Python Environment
 Conda environment: \
 `conda create -n carbon_states python=3.8.13` \
